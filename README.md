@@ -8,6 +8,7 @@ For organizational purposes and for preserving my prior work in an easily accesa
 > Backups are visible and accessible through:
 > The files in this section of the repository are _(not)_ likely to change with each new release.
 
+
 ### History
 > Contains the prior attempts at building a python encoder (and later both encoding and decoding) in seperate files for each preserved version as is seen in the original google docs file with multiple tabs for each version (1, 2, 3, 3-2, & 3-3)
 
@@ -29,3 +30,6 @@ For organizational purposes and for preserving my prior work in an easily accesa
 ### History
 
 ### Main
+
+### Testing Trello
+https://trello.com/invite/b/68aba4f692433172870453ea/ATTIc93599186befd5e2cfcacd222101f21a5CA6051B/hopej-personpy-coder

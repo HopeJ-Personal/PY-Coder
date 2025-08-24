@@ -16,16 +16,26 @@ For organizational purposes and for preserving my prior work in an easily accesa
 > Contains the live progress or progress that has been pushed to the repository when I am able to such as from:
     - An internet enabled device with an IDE or code editor, preferably VS Code which is an ide and removes need for a browser (which is relatively standard on all devices except for those that are not made for direct user interface/interaction such as server's)
 
-> Contains ___ progress, or progress that has been ___ to the repository __
-> Backups are visible and accessible through:
-> The files in this section of the repository are _(not)_ likely to change with each new release.
-
+#### Questions to cover as points
 > What does it contain
 > What makes it different from the other section
 > How are backups visible and accesible
 > How are change logs visible and accessible
 > how often are files changed in here
 
+#### My best idea for points for both history and main section from the "questions" I came up with
+
+> Contains ___ progress, or progress that has been ___ to the repository __
+
+> The files in this section of the repository are _(not)_ likely to change with each new release.
+
+> Backups are visible and accessible through:
+    - Placeholder
+
+> Change log(s) are visible and accessible through:
+    - Placeholder
+
+Placeholder
 
 ### History
 

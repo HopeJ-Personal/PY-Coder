@@ -7,7 +7,7 @@ For organizational purposes and for preserving my prior work in an easily accesa
 ### Main
 * Contains _the latest_ progress, or progress that has been _uploaded_ to the repository _when I am able to, sometime after actually making such progress_
 
-* The files in this section of the repository are __ likely to change with each new release.
+* The files in this section of the repository are likely to change with each new release.
 
 * Progress will be made when:
     - I have the basic necessities to remotely access the repository and make "visble", "live", or public progress through various updates and manual or automatic documentation and handling of such.
@@ -16,7 +16,8 @@ For organizational purposes and for preserving my prior work in an easily accesa
         * Semi-automatically, saving and pushing changes from the local/cloned repository on my device to the official github repository via `Source Control` in VS Code.
 
 * Backups are visible and accessible through:
-    - Placeholder
+    - The release page of the repository
+    - [HopeJ-Personal/PY-Coder/releases](https://github.com/HopeJ-Personal/PY-Coder/releases)
 
 * Change log(s) are visible and accessible through:
     - The commits page of the repository
